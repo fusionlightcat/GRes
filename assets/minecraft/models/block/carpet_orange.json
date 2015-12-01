@@ -1,0 +1,78 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "Portal": "blocks/portal",
+        "Egg": "blocks/dragon_egg",
+        "Eye": "blocks/endframe_eye"
+    },
+    "elements": [
+        {
+            "from": [2,0,2],
+            "to": [14,1,14],
+            "faces": {
+                "up": {
+                    "uv": [0,0,15,16],
+                    "texture": "#Egg"
+                },
+                "down": {
+                    "texture": "#Egg"
+                },
+                "west": {
+                    "texture": "#Egg"
+                },
+                "east": {
+                    "texture": "#Egg"
+                },
+                "north": {
+                    "texture": "#Egg"
+                },
+                "south": {
+                    "texture": "#Egg"
+                }
+            }
+        },
+        {
+            "from": [3,0,3],
+            "to": [13,2,13],
+            "faces": {
+                "up": {
+                    "texture": "#Egg"
+                },
+                "west": {
+                    "texture": "#Egg"
+                },
+                "east": {
+                    "texture": "#Egg"
+                },
+                "north": {
+                    "texture": "#Egg"
+                },
+                "south": {
+                    "texture": "#Egg"
+                }
+            }
+        },
+        {
+            "from": [4,0,4],
+            "to": [12,3,12],
+            "faces": {
+                "up": {
+                    "texture": "#Eye"
+                },
+                "west": {
+                    "texture": "#Egg"
+                },
+                "east": {
+                    "texture": "#Egg"
+                },
+                "north": {
+                    "texture": "#Egg"
+                },
+                "south": {
+                    "texture": "#Egg"
+                }
+            }
+        }
+    ]
+}

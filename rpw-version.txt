@@ -1,0 +1,8 @@
+Generator debug info
+--------------------
+
+RPW version:  4.2.0 on Linux
+Java version: Java(TM) SE Runtime Environment 1.8.0_05
+MC+assets v.: 1.8.1+1.8
+
+Generated:    2015/09/13

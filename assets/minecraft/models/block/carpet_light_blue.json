@@ -1,0 +1,39 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "Runner": "blocks/wool_colored_light_blue",
+        "Iron": "blocks/cauldron_side"
+    },
+    "elements": [
+        {
+            "from": [0,0,0],
+            "to": [16,1,16],
+            "faces": {
+                "up": {
+                    "texture": "#Runner"
+                },
+                "down": {
+                    "uv": [0,0,16,14],
+                    "texture": "#Iron"
+                },
+                "west": {
+                    "uv": [0,7,16,8],
+                    "texture": "#Iron"
+                },
+                "east": {
+                    "uv": [0,6,16,7],
+                    "texture": "#Iron"
+                },
+                "north": {
+                    "uv": [0,2,16,3],
+                    "texture": "#Iron"
+                },
+                "south": {
+                    "uv": [0,7,16,8],
+                    "texture": "#Iron"
+                }
+            }
+        }
+    ]
+}
