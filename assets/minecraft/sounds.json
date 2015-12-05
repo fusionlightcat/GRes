@@ -820,5 +820,14 @@
         "stream": true
       }
     ]
+  },
+  "env.objects.hydrodoor": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "grsound/environment/objects/doormove3",
+        "stream": true
+      }
+    ]
   }
 }
