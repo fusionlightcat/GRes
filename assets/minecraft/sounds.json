@@ -829,5 +829,39 @@
         "stream": true
       }
     ]
+  },
+  "env.uground.tunnelbkg.long": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "grsound/environment/levels/underground/tunnel/tunnels_bkg_1",
+        "stream": true
+      }
+    ]
+  },
+  "env.objects.short_circuit": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "grsound/environment/objects/short_circuit/short_circuit1",
+        "stream": true
+      },
+      {
+        "name": "grsound/environment/objects/short_circuit/short_circuit2",
+        "stream": true
+      },
+      {
+        "name": "grsound/environment/objects/short_circuit/short_circuit3",
+        "stream": true
+      },
+      {
+        "name": "grsound/environment/objects/short_circuit/short_circuit4",
+        "stream": true
+      },
+      {
+        "name": "grsound/environment/objects/short_circuit/short_circuit5",
+        "stream": true
+      }
+    ]
   }
 }
