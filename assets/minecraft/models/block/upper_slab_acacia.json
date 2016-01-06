@@ -1,8 +1,0 @@
-{
-    "parent": "block/upper_slab",
-    "textures": {
-        "bottom": "blocks/metal_full",
-        "top": "blocks/metal_full",
-        "side": "blocks/metal_full"
-    }
-}
