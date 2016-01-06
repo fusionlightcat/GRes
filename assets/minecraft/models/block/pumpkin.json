@@ -1,0 +1,58 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "IRON": "blocks/cauldron_side"
+    },
+    "elements": [
+        {
+            "from": [4,4,4],
+            "to": [12,12,12],
+            "faces": {
+                "up": {
+                    "uv": [0,0,14,14],
+                    "texture": "#IRON"
+                },
+                "down": {
+                    "texture": "#IRON"
+                },
+                "west": {
+                    "texture": "#IRON"
+                },
+                "east": {
+                    "texture": "#IRON"
+                },
+                "north": {
+                    "texture": "#IRON"
+                },
+                "south": {
+                    "texture": "#IRON"
+                }
+            }
+        },
+        {
+            "from": [-4,6,6],
+            "to": [20,10,10],
+            "faces": {
+                "up": {
+                    "texture": "#IRON"
+                },
+                "down": {
+                    "texture": "#IRON"
+                },
+                "west": {
+                    "texture": "#IRON"
+                },
+                "east": {
+                    "texture": "#IRON"
+                },
+                "north": {
+                    "texture": "#IRON"
+                },
+                "south": {
+                    "texture": "#IRON"
+                }
+            }
+        }
+    ]
+}

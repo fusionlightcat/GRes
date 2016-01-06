@@ -2,6 +2,8 @@
 v=$(cat version)
 nv=$((v + 1))
 echo "Pushing with name "$1" and version "$nv;
+rm version
+echo "$nv" > version
 git pull origin master
 rm -r assets/
 unzip -o GRpack.zip

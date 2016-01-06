@@ -1,0 +1,136 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "Jump": "blocks/slime",
+        "Iron": "blocks/cauldron_side"
+    },
+    "elements": [
+        {
+            "from": [0,0,0],
+            "to": [16,1,16],
+            "faces": {
+                "up": {
+                    "texture": "#Jump"
+                },
+                "down": {
+                    "uv": [0,0,16,14],
+                    "texture": "#Iron"
+                },
+                "west": {
+                    "uv": [0,11,16,12],
+                    "texture": "#Iron"
+                },
+                "east": {
+                    "uv": [0,9,16,10],
+                    "texture": "#Iron"
+                },
+                "north": {
+                    "uv": [0,9,16,10],
+                    "texture": "#Iron"
+                },
+                "south": {
+                    "uv": [0,11,16,12],
+                    "texture": "#Iron"
+                }
+            }
+        },
+        {
+            "from": [0,1,0],
+            "to": [1,2,15],
+            "faces": {
+                "up": {
+                    "texture": "#Iron"
+                },
+                "west": {
+                    "uv": [1,12,16,13],
+                    "texture": "#Iron"
+                },
+                "east": {
+                    "uv": [0,11,15,12],
+                    "texture": "#Iron"
+                },
+                "north": {
+                    "texture": "#Iron"
+                },
+                "south": {
+                    "texture": "#Iron"
+                }
+            }
+        },
+        {
+            "from": [15,1,1],
+            "to": [16,2,16],
+            "faces": {
+                "up": {
+                    "texture": "#Iron"
+                },
+                "west": {
+                    "uv": [1,12,16,13],
+                    "texture": "#Iron"
+                },
+                "east": {
+                    "uv": [0,11,15,12],
+                    "texture": "#Iron"
+                },
+                "north": {
+                    "texture": "#Iron"
+                },
+                "south": {
+                    "texture": "#Iron"
+                }
+            }
+        },
+        {
+            "from": [1,1,0],
+            "to": [16,2,1],
+            "faces": {
+                "up": {
+                    "texture": "#Iron"
+                },
+                "west": {
+                    "uv": [1,12,16,13],
+                    "texture": "#Iron"
+                },
+                "east": {
+                    "uv": [0,11,15,12],
+                    "texture": "#Iron"
+                },
+                "north": {
+                    "uv": [1,8,16,9],
+                    "texture": "#Iron"
+                },
+                "south": {
+                    "uv": [0,7,15,8],
+                    "texture": "#Iron"
+                }
+            }
+        },
+        {
+            "from": [0,1,15],
+            "to": [15,2,16],
+            "faces": {
+                "up": {
+                    "uv": [1,11,16,12],
+                    "texture": "#Iron"
+                },
+                "west": {
+                    "uv": [1,12,16,13],
+                    "texture": "#Iron"
+                },
+                "east": {
+                    "uv": [0,11,15,12],
+                    "texture": "#Iron"
+                },
+                "north": {
+                    "uv": [1,8,16,9],
+                    "texture": "#Iron"
+                },
+                "south": {
+                    "uv": [0,7,15,8],
+                    "texture": "#Iron"
+                }
+            }
+        }
+    ]
+}
