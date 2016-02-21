@@ -881,5 +881,23 @@
         "stream": true
       }
     ]
+  },
+  "env.precanal.trafo1": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "grsound/environment/objects/trafo/d6_transformer1_1",
+        "stream": true
+      }
+    ]
+  },
+  "env.precanal.trafo2": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "grsound/environment/objects/trafo/d6_transformer2_2",
+        "stream": true
+      }
+    ]
   }
 }

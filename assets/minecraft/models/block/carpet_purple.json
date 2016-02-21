@@ -1,0 +1,37 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "metall": "blocks/metal_roof"
+    },
+    "elements": [
+        {
+            "from": [0,0,0],
+            "to": [16,1,16],
+            "faces": {
+                "up": {
+                    "texture": "#metall"
+                },
+                "down": {
+                    "texture": "#metall"
+                },
+                "west": {
+                    "uv": [14.875,0,16,16],
+                    "texture": "#metall",
+                    "rotation": 90
+                },
+                "east": {
+                    "uv": [0,0,1.1875,16],
+                    "texture": "#metall",
+                    "rotation": 90
+                },
+                "north": {
+                    "texture": "#metall"
+                },
+                "south": {
+                    "texture": "#metall"
+                }
+            }
+        }
+    ]
+}
